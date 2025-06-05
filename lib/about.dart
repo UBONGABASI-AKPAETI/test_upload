@@ -21,7 +21,7 @@ class _HomeState extends State<Homepage> {
       appBar: AppBar(
         backgroundColor: Colors.grey[800],
         title: const Text(
-          "My Profile Card",
+          "My Details",
           style: TextStyle(fontWeight: FontWeight.bold, color: Colors.white),
         ),
         centerTitle: true,
